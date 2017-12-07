@@ -9,6 +9,7 @@
 	"dependencies": {
 		"eslint-config-rallycoding": "^3.2.0",
 		"firebase": "^4.7.0",
+		"loadash": "^1.0.0",
 		"react": "16.0.0",
 		"react-addons-pure-render-mixin": "^15.6.2",
 		"react-native": "0.50.3",
